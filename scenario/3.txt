@@ -1,0 +1,8 @@
+
+              			╔════════════════════════════════════════════════════════════════════════════════╗
+	       			║ Une fois arrivé dans la jungle de Wanao, au loin il voit le trésor,            ║  
+	       			║ malheureusement un compte à rebours s'enclenche et l’accès ne sera pas facile, ║  
+	       			║ il devra faire face à différents obstacles afin de l'atteindre                 ║  
+	       			║ (arbre couvrant de poids minimal).                                             ║ 
+               			╚════════════════════════════════════════════════════════════════════════════════╝
+													       ==>

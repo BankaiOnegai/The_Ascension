@@ -1,0 +1,17 @@
+					
+	
+					____ ____ ___ _  _ ____ ____ 
+					|__| [__   |  |  | |    |___ 
+					|  | ___]  |  |__| |___ |___ 
+
+
+	╔═══════════════════════════════════════════════════════════════════════════════════════╗
+	║  Pour trouver l'arbre couvrant de poids minimal, je te conseil d'utiliser Kruskal	║
+	║  C'est un algorithme très simple tu vas voir 						║
+	║											║
+	║  Tout d'abords numérote tes aretes dans l'ordre croissant de leurs poids 		║
+	║  Maintenant tu prends ton premier arc et tu le marque, puis tu passe au 2eme.		║
+	║											║
+ 	║  Fait bien attention a une chose, si ton arc ferme le circuit du graphe alors passe   ║
+	║  directement au suivant								║
+	╚═══════════════════════════════════════════════════════════════════════════════════════╝

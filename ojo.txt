@@ -1,0 +1,32 @@
+void jouer()
+{
+    struct Graph *graph1, *graph2;
+
+    printf("TEST1\n");
+    	int **graphe1 = (int**)malloc(size * sizeof (int*));
+        int **graphe2 = (int**)malloc(size * sizeof(int*));
+        graphe1 = remplissageGraphe(1);
+        graphe2= remplissageGraphe(2);
+
+    printf("TEST2\n");
+        //graph1 = remplissage(graphe1);
+        graph2 = remplissage(graphe2);
+
+
+    printf("TEST3\n");
+    //clear();
+        for (int i = 1; i < size; i++)
+        {
+            lecture_texte_int("scenario",i);
+            keypressed("->",'z');
+            if(i == 3)
+            {
+                dijkstra(graphe1,0);
+            }
+            else if(i == 4)
+            {
+                Kruskal(graph2);
+            }
+        }
+}
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

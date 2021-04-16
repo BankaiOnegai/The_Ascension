@@ -1,0 +1,22 @@
+
+
+		Les sommets sont nommés par des S 
+		car le graphe est rentré dans le programme 
+		sous forme de matrice 
+		Il faut donc respecter l'ordre
+		
+			 
+	           ╔═════╗                 ╔═════╗
+         ╔════3════╣Totem╠════════1════════╣Porte╠═════8═════╗
+	 ║	   ║  S1 ║		   ║  S4 ║	     ║
+         ║         ╚══╦══╝                 ╚══╦══╝           ║
+         ║            6			      ║		     ║
+    ╔════╩═══╗     ╔══╩═══╗		      ║           ╔══╩═══╗
+    ║Timothée╠══2══╣Levier╠═══════3═══════════╝		  ║Trésor║  
+    ║	S0   ║     ║  S2  ║				  ║  S5  ║
+    ╚════╦═══╝     ╚══╦═══╝				  ╚══╦═══╝
+         ║            5					     ║
+         ║         ╔══╩════╗				     ║
+         ╚════6════╣Cristal╠══════4══════════════════════════╝
+		   ║  S3   ║
+		   ╚═══════╝

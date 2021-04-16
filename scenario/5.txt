@@ -1,0 +1,7 @@
+
+	       			╔════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+	       			║ Une fois le trésor en main, il doit se rendre dans la ville de Tanji pour prendre le bateau et partir. ║  
+	       			║ Pour accéder à cette ville il a 3 choix, le choix de passer par les champs , par les petites routes    ║  
+	       			║ ainsi que par l'autoroute 										 ║   
+               			╚════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+																       ==>

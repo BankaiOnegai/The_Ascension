@@ -1,0 +1,21 @@
+
+	
+					____ ____ ___ _  _ ____ ____ 
+					|__| [__   |  |  | |    |___ 
+					|  | ___]  |  |__| |___ |___ 
+                             
+	╔═════════════════════════════════════════════════════════════════════════════════════════════════════╗
+	║ Pour reussir a trouver le plus court chemin tu dois utiliser l'algorithme de Dijkstra		      ║
+	║ Pour ce faire  il suffit de partir du point de depart et d'additionner le poids du graphes 	      ║
+	║ a celle du sommet relier à celui-ci								      ║
+	║												      ║
+	║ Puis de prendre le sommet suivant qui a le poids le plus petit et faire la liste de ses adjacences  ║
+	║ en additionnant le poids du sommet avec ceux des arcs						      ║
+ 	║												      ║
+	║ Repete ce proceder jusqu'a la fin. 								      ║
+ 	║												      ║
+	║ Une fois cela fini prends le dernier sommet marqué et voit la derniere fois que sa valeur a changer ║
+	║ Lorsqu'un sommet change de valeur cela signifie qu'il y'a une connection entre ces 2 sommet 	      ║
+	║ Repete le proceder jusqu'a la fin et tu obtiendra le plus court chemin  			      ║
+	╚═════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
